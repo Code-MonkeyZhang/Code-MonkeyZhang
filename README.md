@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am Jonathan Zhang.
-I like Robotics, Deep Learning, Writing, and Cooking.
+I like Robotics, Deep Learning, and iOS apps.
 
 <!--
 **Code-MonkeyZhang/Code-MonkeyZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
