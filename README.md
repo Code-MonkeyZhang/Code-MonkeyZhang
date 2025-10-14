@@ -26,15 +26,11 @@
 - 🤖 On-device AI model deployment for real-time analysis
 - 📊 Image authenticity detection and classification
 
----
-
-🤖 RoboMaster Robotics Competition - _Penn State RoboX_
+#### 🤖 RoboMaster Robotics Competition - _Penn State RoboX_
 
 > Computer Vision Lead | 🥈 2nd Place 3v3 (2023) | 6th Place Overall (2024)
 
 - 🏆 **2nd Place** in 3v3 (2023), **6th Place** overall (2024) in North America
-
----
 
 #### 🧠 miniflow - _Deep Learning Framework_
 
@@ -98,11 +94,6 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-MonkeyZhang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Code-MonkeyZhang&theme=radical&hide_border=true&background=0D1117&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-MonkeyZhang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
