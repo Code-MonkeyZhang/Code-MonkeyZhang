@@ -9,38 +9,6 @@
 - 💡 **Passionate About:** Making AI application for everyone
 - 📫 **Reach Me:** [yufengzhang483@gmail.com](mailto:yufengzhang483@gmail.com)
 
-### 🎯 Featured Projects
-
-#### [PromptCard](https://promptcard.online/) - _AI Prompt Sharing Platform_
-
-> A full-stack web application combining prompt sharing community with Chrome extension
-
-- 💾 Personal prompt repository management
-- 🔌 Chrome extension for quick prompt insertion in ChatGPT
-- 🚀 Enhances LLM prompt engineering efficiency
-
-#### [AI Image Detection Cat](https://apps.apple.com/us/app/ai%E5%9B%BE%E7%89%87%E9%89%B4%E5%AE%9A%E7%8C%AB/id6752694252) - _iOS Application_
-
-> AI-powered image authenticity detection app available on App Store
-
-- 🤖 On-device AI model deployment for real-time analysis
-- 📊 Image authenticity detection and classification
-
-#### 🤖 RoboMaster Robotics Competition - _Penn State RoboX_
-
-> Computer Vision Lead | 🥈 2nd Place 3v3 (2023) | 6th Place Overall (2024)
-
-- 🏆 **2nd Place** in 3v3 (2023), **6th Place** overall (2024) in North America
-
-#### 🧠 miniflow - _Deep Learning Framework_
-
-> TensorFlow-like framework built from scratch with NumPy
-
-- ⚡ Forward/backward propagation, learning rate decay, Adam optimizer
-- 🔧 Supports MLP and CNN models with customizable layers
-- 📈 **Performance:** 95% accuracy (MNIST), 98% accuracy with CNN
-
----
 
 ### 🛠️ Tech Stack & Skills
 
@@ -88,16 +56,3 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Code-MonkeyZhang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-MonkeyZhang&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A277FF&line=A277FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
