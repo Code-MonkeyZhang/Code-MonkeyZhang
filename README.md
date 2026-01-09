@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Jonathan+Zhang+%F0%9F%91%8B;Independent+Developer+%7C+AI+Enthusiast;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Jonathan+Zhang+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Building:** A multi-LLM system inspired by cognitive psychology
+- 🔭 **Currently Building:** An personal LLM agent for everyone 
 - 🌱 **Currently Learning:** nodejs, mcp, and AI Agent architectures
-- 💡 **Passionate About:** Making AI application for everyone
+- 💡 **Passionate About:** Building useful things
 - 📫 **Reach Me:** [yufengzhang483@gmail.com](mailto:yufengzhang483@gmail.com)
 
 
