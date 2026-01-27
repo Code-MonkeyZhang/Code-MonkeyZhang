@@ -15,10 +15,10 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <h4>📱 Mobile Development</h4>
+      <h4>📱 Mobile </h4>
     </td>
     <td align="center" width="25%">
-      <h4>🌐 Web Development</h4>
+      <h4>🌐 Web </h4>
     </td>
     <td align="center" width="25%">
       <h4>🤖 AI & ML</h4>
