@@ -24,7 +24,7 @@
       <h4>🤖 AI & ML</h4>
     </td>
     <td align="center" width="25%">
-      <h4>🔧 Tools & Platforms</h4>
+      <h4>🔧 Others </h4>
     </td>
   </tr>
   <tr>
