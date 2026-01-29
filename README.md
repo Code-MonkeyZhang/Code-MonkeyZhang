@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently Building:** An personal LLM agent for everyone 
-- 🌱 **Currently Learning:** nodejs, mcp, and AI Agent architectures
+- 🌱 **Currently Learning:** nodejs, React Native, and LLM Agent architectures
 - 💡 **Passionate About:** Building useful things
 - 📫 **Reach Me:** [yufengzhang483@gmail.com](mailto:yufengzhang483@gmail.com)
 
